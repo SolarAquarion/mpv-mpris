@@ -1,4 +1,4 @@
-#include <gio/gio.h>
+#include <glib2-2.0/gio/gio.h>
 #include <glib-unix.h>
 #include <mpv/client.h>
 #include <inttypes.h>
